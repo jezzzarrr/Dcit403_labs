@@ -1,0 +1,7 @@
+QUESTION: What is the capital of the Bono East Region, and what is the total fare for 3 people if a ticket there costs GHS 120 each way (return trip)?
+
+[step 1] MODEL ERROR: litellm.BadRequestError: GroqException - {"error":{"message":"Tool choice is none, but model called a tool","type":"invalid_request_error","code":"tool_use_failed","failed_generation":"{\"name\": \"calculator\", \"arguments\": 120*2*3}"}}
+
+
+FINAL ANSWER: Sorry, I could not reach the model.
+TOTAL TOKENS: 0

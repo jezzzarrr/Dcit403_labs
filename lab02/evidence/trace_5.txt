@@ -1,0 +1,9 @@
+QUESTION: Say hello and tell me briefly what you can help with.
+
+--- step 1 ---
+Thought: Greeting and brief description of assistance.  
+Action: finish  
+Action Input: Hello! I’m Maame Makola, your quick and careful helper at Makola Market. I can help you with market prices, currency conversions, arithmetic calculations, and quick facts from Wikipedia. Just let me know what you need!
+
+FINAL ANSWER: Hello! I’m Maame Makola, your quick and careful helper at Makola Market. I can help you with market prices, currency conversions, arithmetic calculations, and quick facts from Wikipedia. Just let me know what you need!
+TOTAL TOKENS: 386
