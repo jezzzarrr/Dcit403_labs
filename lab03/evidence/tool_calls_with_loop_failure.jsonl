@@ -1,0 +1,13 @@
+{"timestamp": "2026-11-26T09:55:17", "tool": "check_stock", "arguments": {"item": "amoxicillin", "strength": "500mg"}, "result_summary": "{   \"item\": \"Amoxicillin\",   \"strength\": \"500mg\",   \"form\": \"capsules (pack of 21)\",   \"quantity\": \"40\",   \"unit_price_g", "duration_ms": 20.5}
+{"timestamp": "2026-11-26T09:56:17", "tool": "check_stock", "arguments": {"item": "amoxicillin", "strength": "500mg"}, "result_summary": "{   \"item\": \"Amoxicillin\",   \"strength\": \"500mg\",   \"form\": \"capsules (pack of 21)\",   \"quantity\": \"40\",   \"unit_price_g", "duration_ms": 8.8}
+{"timestamp": "2026-11-26T09:56:23", "tool": "list_expiring", "arguments": {"days": 60}, "result_summary": "{   \"item\": \"Hydrocortisone\",   \"strength\": \"1%\",   \"form\": \"cream (15g)\",   \"quantity\": \"22\",   \"unit_price_ghs\": \"14.0", "duration_ms": 6.3}
+{"timestamp": "2026-11-26T09:56:29", "tool": "price_quote", "arguments": {"item": "paracetamol", "qty": 2, "strength": "500mg"}, "result_summary": "{   \"item\": \"Paracetamol\",   \"strength\": \"500mg\",   \"qty\": 2,   \"unit_price_ghs\": 8.0,   \"total_ghs\": 16.0 }", "duration_ms": 4.0}
+{"timestamp": "2026-11-26T09:56:34", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 6.2}
+{"timestamp": "2026-11-26T09:56:40", "tool": "record_sale", "arguments": {"item": "paracetamol", "qty": 2, "strength": "500mg"}, "result_summary": "OK: sold 2 x Paracetamol 500mg. 148 left in stock.", "duration_ms": 5.6}
+{"timestamp": "2026-11-26T09:56:45", "tool": "record_sale", "arguments": {"item": "paracetamol", "qty": 5000, "strength": "500mg"}, "result_summary": "REFUSED: only 148 in stock, cannot sell 5000. Nothing was recorded.", "duration_ms": 4.8}
+{"timestamp": "2026-11-26T10:02:17", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 9.7}
+{"timestamp": "2026-11-26T10:02:18", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 5.9, "note": "model wrote the call as text; recovered by client"}
+{"timestamp": "2026-11-26T10:02:18", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 5.8}
+{"timestamp": "2026-11-26T10:02:19", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 6.4}
+{"timestamp": "2026-11-26T10:02:19", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 5.6}
+{"timestamp": "2026-11-26T10:02:19", "tool": "search_items", "arguments": {"query": "cough"}, "result_summary": "", "duration_ms": 5.6}

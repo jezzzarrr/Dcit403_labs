@@ -4,7 +4,7 @@ Answer in your own words before the Wednesday session (independent work). Your a
 
 ## Q1. Give the PEAS description of a self-checkout machine at a supermarket.
 
-PEAS	Self-checkout machine
+PEAS	      Self-checkout machine
 Performance	- Every item is scanned and priced correctly; the total is right; payment succeeds; checkout is fast; theft and scanning errors are caught; the customer can finish without waiting for staff.
 
 Environment	- The checkout area of a supermarket: the customer, the items, the bagging area, the store's price database, and the attendant who can be called.
